@@ -2,8 +2,8 @@
 This repository contains the R code and dataset used for my Bachelor's Thesis in Statistics for Technology and Science at University of Padua, written in italian, which focuses on using the Prophet model to forecaste the number of active players in the game Rocket League and estimating the optimal number of servers required to ensure stable performance and cost-effective scalability.
 
 ## Dataset
+The dataset 252950.csv used in this thesis was taken from the platform [Select Dataset](https://www.selectdataset.com/dataset/71894030462cb535efc96a766e6bb83e) and it covers the number of active players in *Rocket League* from December 2017 to August 2020.  
 
-The dataset used in this thesis was taken from the platform [Select Dataset](https://www.selectdataset.com/dataset/71894030462cb535efc96a766e6bb83e) and it covers the number of active players in *Rocket League* from December 2017 to August 2020.  
 
 ## Abstract
 
